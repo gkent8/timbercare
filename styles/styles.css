@@ -58,7 +58,8 @@ h2 {
 
 .logo {
   max-width: auto;
-  max-height: 15vw;
+  max-height: 18vw;
+  margin: 0 auto;
 }
 
 .services-container {
@@ -75,7 +76,7 @@ h2 {
 }
 
 .section-title {
-  font-size: 4vw;
+  font-size: 4.5vw;
   color: #095d40;
   text-align: center;
   font-weight: bold;
